@@ -1,0 +1,22 @@
+.posts-content {
+    text-align:center;
+}
+
+.posts-content h1 {
+    margin-bottom: 4rem;
+}
+
+.posts {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.post__box {
+    width: 45%;
+    box-sizing: border-box;
+    margin: 2rem;
+    padding: 1.5rem;
+    box-shadow: 1rem 1rem 4rem rgba(0, 0, 0, 0.527);
+
+}

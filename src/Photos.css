@@ -1,0 +1,28 @@
+.photos-content {
+    text-align:center;
+}
+
+.photos {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+.photo__box {
+    width: 30%;
+    box-sizing: border-box;
+    margin: 2rem;
+    padding: 1.5rem;
+    text-align: center;
+
+}
+
+
+.photo__name {
+    display: block;
+}
+
+.photo__img {
+    width: 100%;
+}

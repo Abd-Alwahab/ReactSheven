@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: aquamarine;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.541)), url(image-2.jpeg);
+    background-size: cover;
+    height:  calc(100vh - 4rem);
+
+}
+
+.header-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    background-color: rgba(255, 166, 0, 0.479);
+    padding: 1rem 2rem;
+    border-radius: 10px;
+
+}
+
+
+h1 {
+    color: #fff;
+    margin: 0 0 2rem 0;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+p {
+    color: orange;
+    font-size: 1.5rem;
+    word-spacing: 3px;
+    margin-bottom: 2rem;
+}
+
+
+a {
+    color: #fff;
+    text-decoration: none;
+    padding: 1rem 2rem;
+    background-color: orange;
+    border-radius: 10px;
+    display: inline-block;
+    font-size: 1.3rem;
+
+}

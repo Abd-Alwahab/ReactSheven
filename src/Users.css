@@ -1,0 +1,38 @@
+.users-content {
+    text-align:center;
+}
+
+.users {
+    background-color: #222;
+    padding: 5rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.user__box {
+    min-width: 20%;
+    margin: 2rem;
+    padding: 2rem;
+    color: #fff;
+    text-align: center;
+    box-shadow: 3px 3px 5px #000;
+    background-color: #555;
+
+
+}
+
+.user__name {
+color: #fff;
+}
+
+.user__uid {
+    color: #fff;
+}
+
+.user__email {
+
+    text-decoration: none;
+    color: #fff;
+    cursor: pointer;
+}
