@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.90092213.chunk.css",
-  "main.js": "/static/js/main.264c7165.chunk.js",
-  "main.js.map": "/static/js/main.264c7165.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
-  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
-  "static/js/2.6da070df.chunk.js": "/static/js/2.6da070df.chunk.js",
-  "static/js/2.6da070df.chunk.js.map": "/static/js/2.6da070df.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.421b53d33c0bd4c454e81514ef2e47e5.js": "/precache-manifest.421b53d33c0bd4c454e81514ef2e47e5.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.90092213.chunk.css.map": "/static/css/main.90092213.chunk.css.map",
-  "static/media/Home.css": "/static/media/image-2.e3ff4de5.jpeg",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  "main.css": "/Abd-Alwahab/ReactSheven/static/css/main.301e557c.chunk.css",
+  "main.js": "/Abd-Alwahab/ReactSheven/static/js/main.17fb5233.chunk.js",
+  "main.js.map": "/Abd-Alwahab/ReactSheven/static/js/main.17fb5233.chunk.js.map",
+  "runtime~main.js": "/Abd-Alwahab/ReactSheven/static/js/runtime~main.96a20368.js",
+  "runtime~main.js.map": "/Abd-Alwahab/ReactSheven/static/js/runtime~main.96a20368.js.map",
+  "static/js/2.6da070df.chunk.js": "/Abd-Alwahab/ReactSheven/static/js/2.6da070df.chunk.js",
+  "static/js/2.6da070df.chunk.js.map": "/Abd-Alwahab/ReactSheven/static/js/2.6da070df.chunk.js.map",
+  "index.html": "/Abd-Alwahab/ReactSheven/index.html",
+  "precache-manifest.83b23fdb5ff65bd0a1243df9012e6d4d.js": "/Abd-Alwahab/ReactSheven/precache-manifest.83b23fdb5ff65bd0a1243df9012e6d4d.js",
+  "service-worker.js": "/Abd-Alwahab/ReactSheven/service-worker.js",
+  "static/css/main.301e557c.chunk.css.map": "/Abd-Alwahab/ReactSheven/static/css/main.301e557c.chunk.css.map",
+  "static/media/Home.css": "/Abd-Alwahab/ReactSheven/static/media/image-2.e3ff4de5.jpeg",
+  "static/media/logo.svg": "/Abd-Alwahab/ReactSheven/static/media/logo.5d5d9eef.svg"
 }
