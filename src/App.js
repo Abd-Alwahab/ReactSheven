@@ -16,11 +16,11 @@ class App extends Component {
       <BrowserRouter>
       <div className="App">
          <Nav />
+         <Route path="/" component={Home}/>
          <Route path="/users" component={Users}/>
          <Route path="/posts" component={Posts}/>
          <Route path="/photos" component={Photos}/>
-         <Route path="/home" component={Home}/>
-
+       
          </div>
       </BrowserRouter>
     );

@@ -25,7 +25,7 @@ class Users extends Component {
         return (
 
             <div className="users-content">
-                <h1>User Page</h1>
+                <h1 className="users__title">User Page</h1>
 
 
               

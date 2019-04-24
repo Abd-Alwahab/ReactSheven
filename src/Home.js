@@ -10,18 +10,18 @@ class Home extends Component {
 
         return (
 
-            <div>
+            <div  className="header">
 
-                <div className="header">
+              
                 
                 <div className="header-box">
                 
                     <h1>abd alwahab</h1>
                     <p>React Project Using React and JSON</p>
-                    <a href="" className="btn">View Code</a>
+                    <a href="https://github.com/Abd-Alwahab/ReactSheven" className="btn">View Code</a>
                 </div>
                 
-                </div>
+              
                 
             </div>
 

@@ -10,6 +10,13 @@
     flex-wrap: wrap;
 }
 
+
+.users__title {
+    color: orange;
+    background-color: #222;
+    margin: 0;
+    padding-top: 4rem;
+}
 .user__box {
     min-width: 20%;
     margin: 2rem;
